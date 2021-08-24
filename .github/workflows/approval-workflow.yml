@@ -1,1 +1,2 @@
-name: Team floppin approval workflow
+name: Team floppin awesome's workflow
+on: pull_request_review
